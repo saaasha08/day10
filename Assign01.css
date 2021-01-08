@@ -1,0 +1,37 @@
+.frist-heading{
+    color: rgb(11, 216, 62);
+    background: rgb(12, 12, 12);
+    text-align: center;
+    font-size: 40px;
+}
+.second-heading{
+    color: rgb(0, 0, 0);
+    background: rgb(240, 211, 211);
+    text-align: center;
+    font-size:45px ;
+}
+.frist-header{
+    color: rgb(248, 42, 6);
+    text-align: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    font-size: 20px;
+}
+.second-header{
+    color: rgb(119, 0, 255);
+    text-align: center;
+    font-size:20px ;
+}
+.thard-header{
+    color: rgb(2, 193, 252);
+    text-align: center;
+    font-size: 25px;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-size: 15;
+}
+p{
+    color: rgb(4, 27, 77);
+    text-align: center;
+    font-size:large;
+}
